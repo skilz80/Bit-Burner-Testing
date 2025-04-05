@@ -6,7 +6,7 @@ Using Bit Burner to learn JavaScript
   * Early Stage Setup TODO List: 
     * Installation and configuration of my workspace environment and development tools.
     * Integrating Bitburner to work or use my project files from my IDE and repositories.
-    * Setting up a feasible and extenable javascript/typescript based framework for future works.
+    * Setting up a feasible and extendable javascript/typescript based framework for future works.
     * Exploring more options; potentially setting up a server/database, other language integrations.
   * Internal Code Base Interoperabiity and Potential External Integrations:
     * Integration with NodeJS, P5 framework, and other various tools for web graphics. 
